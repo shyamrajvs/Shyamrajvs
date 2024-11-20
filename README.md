@@ -1,5 +1,7 @@
 # WELCOME TO MY DIGITAL DOMAIN 
 
+<img src="./github-1.svg" /> 
+
 [WEB-DEV] ~ $ npm start  
 Starting dev server on http://localhost:3000...  
 
