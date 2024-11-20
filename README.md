@@ -13,10 +13,9 @@ OS            : Debain 12 (PC) &&& crDroid (Android)
 LANGUAGES     : JavaScript, HTML, CSS, Solidity  
 CURRENT TASKS : Building decentralized apps, contributing to open source  
 
-FRONTEND       : React.js, Tailwind CSS  
-BACKEND        : Node.js (Optional for DApps)  
-DECENTRALIZED  : IPFS, Web3.js, Solidity  
-DESIGN         : Figma, GSAP  
+FRONTEND       : React.js, Next.js , Tailwind CSS  
+BACKEND        : Node.js (Optional for DApps) 
+DESIGN         : Figma
 IDE            : Visual Studio Code  
 
 [+] REPOS CONTRIBUTED : 30+  
