@@ -1,30 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="black"/>
-
-  <!-- Debian Logo (Placeholder) -->
-  <circle cx="30" cy="30" r="20" fill="red" />
-  <text x="20" y="35" font-family="monospace" font-size="16" fill="white">D</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <!-- Dark background -->
+  <rect width="1200" height="800" fill="#0C0C0C"/>
   
-  <!-- Terminal Text (Simulating Debian Terminal) -->
-  <text x="70" y="50" font-family="monospace" font-size="24" fill="white">
-    debian@my-terminal:~$
-  </text>
-  <text x="70" y="90" font-family="monospace" font-size="24" fill="green">
-    $ sudo apt-get update
-  </text>
-  <text x="70" y="130" font-family="monospace" font-size="24" fill="yellow">
-    Reading package lists... Done
-  </text>
-  <text x="70" y="170" font-family="monospace" font-size="24" fill="yellow">
-    Building dependency tree       
-  </text>
-  <text x="70" y="210" font-family="monospace" font-size="24" fill="yellow">
-    Reading state information... Done
-  </text>
-
-  <!-- Flashing Cursor -->
-  <rect x="390" y="50" width="2" height="30" fill="white">
-    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Left panel -->
+  <rect x="10" y="10" width="220" height="780" fill="#121212" rx="5"/>
+  
+  <!-- Time display -->
+  <text x="30" y="50" fill="#4FD5D6" font-family="monospace" font-size="24">01:00:16</text>
+  
+  <!-- System info -->
+  <text x="30" y="100" fill="#808080" font-family="monospace" font-size="12">2024 NOV21 0:14:20 linux 100%</text>
+  
+  <!-- CPU Usage section -->
+  <text x="30" y="150" fill="#4FD5D6" font-family="monospace" font-size="14">CPU USAGE</text>
+  <rect x="30" y="170" width="180" height="60" fill="#1A1A1A" rx="3"/>
+  <path d="M 30,180 H 210" stroke="#2A2A2A" stroke-width="1"/>
+  <path d="M 30,200 H 210" stroke="#2A2A2A" stroke-width="1"/>
+  
+  <!-- Main terminal window -->
+  <rect x="240" y="10" width="700" height="780" fill="#121212" rx="5"/>
+  <text x="260" y="40" fill="#4FD5D6" font-family="monospace" font-size="14">MAIN - bash</text>
+  <text x="260" y="80" fill="#B2B2B2" font-family="monospace" font-size="14">Welcome to edEX-UI v2.2.8 - Electron v12.2.2</text>
+  <text x="260" y="100" fill="#B2B2B2" font-family="monospace" font-size="14">shyam@debian:~/.config/edEX-UI$</text>
+  
+  <!-- Right panel -->
+  <rect x="950" y="10" width="240" height="780" fill="#121212" rx="5"/>
+  
+  <!-- Network status -->
+  <text x="970" y="40" fill="#4FD5D6" font-family="monospace" font-size="14">NETWORK STATUS</text>
+  <text x="970" y="70" fill="#808080" font-family="monospace" font-size="12">STATE: ONLINE</text>
+  <text x="970" y="90" fill="#808080" font-family="monospace" font-size="12">PING: 114ms</text>
+  
+  <!-- File system -->
+  <rect x="30" y="550" width="180" height="200" fill="#1A1A1A" rx="3"/>
+  
+  <!-- Icons -->
+  <g transform="translate(40, 570)" fill="#4FD5D6">
+    <!-- Folder icons -->
+    <rect x="0" y="0" width="30" height="30" fill="#4FD5D6" opacity="0.2" rx="2"/>
+    <rect x="40" y="0" width="30" height="30" fill="#4FD5D6" opacity="0.2" rx="2"/>
+    <rect x="80" y="0" width="30" height="30" fill="#4FD5D6" opacity="0.2" rx="2"/>
+  </g>
+  
+  <!-- Virtual keyboard -->
+  <rect x="240" y="600" width="700" height="190" fill="#1A1A1A" rx="5"/>
+  
+  <!-- Keyboard keys (simplified representation) -->
+  <g transform="translate(250, 620)">
+    <rect width="40" height="40" fill="#2A2A2A" rx="3"/>
+    <text x="15" y="25" fill="#4FD5D6" font-family="monospace" font-size="14">ESC</text>
+  </g>
 </svg>
