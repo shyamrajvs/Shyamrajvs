@@ -3,6 +3,11 @@
 [WEB-DEV] ~ $ npm start  
 Starting dev server on http://localhost:3000...  
 
+```python
+def hello_world():
+    print("Hello, World!")
+
+
 ## SYSTEM STATUS
 ```yaml
 OS            : Debain 12 (PC) &&& crDroid (Android)  
