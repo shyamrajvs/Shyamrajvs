@@ -14,3 +14,7 @@ FRONTEND       : React.js,Next.js Tailwind CSS
 BACKEND        : Node.js 
 DESIGN         : Figma 
 IDE            : Visual Studio Code  
+
+# Welcome to my Digital Domain
+
+![Text Animation](https://example.com/your-animated-text.gif)
