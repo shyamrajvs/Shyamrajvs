@@ -1,7 +1,7 @@
 # WELCOME TO MY DIGITAL DOMAIN 
 
 [WEB-DEV] ~ $ npm start  
-Starting dev server on http://localhost:3000...  
+Starting dev server on http://localhost:3000
 
 ```python
 def hello_world():
