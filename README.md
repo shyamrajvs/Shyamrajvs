@@ -1,6 +1,10 @@
+# WELCOME TO MY DIGITAL DOMAIN 
 
+[WEB-DEV] ~ $ npm start  
+Starting dev server on http://localhost:3000...  
 
-# Welcome to My Digital Domain
-
-![Text Animation](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
-
+## SYSTEM STATUS  
+```yaml
+OS            : crDroid (Android)  
+LANGUAGES     : JavaScript, HTML, CSS, Solidity  
+CURRENT TASKS : Building decentralized apps, contributing to open source  
