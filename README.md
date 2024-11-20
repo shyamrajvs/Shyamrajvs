@@ -1,6 +1,16 @@
-# Welcome to the Matrix 🟩
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 01101001 01110011 00100000 01110100 01101000 01101001 01110011 00100000 01110010 01100101 01100001 01101100 00111111 00100000 11001101 01100101 01111000 01110001 00110010 11000011 01100001 00100000 01101101 01101111 01110010 01110000 01101000 01101001 01110011 01101101 01100101 00100000 11000011 01100001 01101110 01111001
+#  WELCOME TO MY DIGITAL DOMAIN 
 
 
-[![Matrix Effect](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## SYSTEM STATUS  
+```yaml
+OS            :Debain 12 (pc) &&& crDroid (Android)  
+LANGUAGES     : JavaScript, HTML, CSS, Solidity  
+CURRENT TASKS : Building decentralized apps, contributing to open source  
+
+[WEB-DEV] ~ $ npm start  
+Starting dev server on http://localhost:3000...  
+
+FRONTEND       : React.js,Next.js Tailwind CSS  
+BACKEND        : Node.js 
+DESIGN         : Figma 
+IDE            : Visual Studio Code  
