@@ -15,6 +15,12 @@ BACKEND        : Node.js
 DESIGN         : Figma 
 IDE            : Visual Studio Code  
 
-# Welcome to my Digital Domain
+import time
+import sys
 
-![Text Animation](https://example.com/your-animated-text.gif)
+text = "WELCOME TO MY DIGITAL DOMAIN"
+for char in text:
+    sys.stdout.write(char)
+    sys.stdout.flush()
+    time.sleep(0.1)  # Delay between characters
+
