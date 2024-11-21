@@ -8,7 +8,7 @@ Starting dev server on http://localhost:3000
 OS            : Debain 12 (PC) &&& crDroid (Android)  
 LANGUAGES     : JavaScript, HTML, CSS, Solidity  
 CURRENT TASKS : contributing to open source  
-
+###
 FRONTEND       : React.js, Next.js , Tailwind CSS  
 BACKEND        : Node.js (Optional for DApps) 
 DESIGN         : Figma
