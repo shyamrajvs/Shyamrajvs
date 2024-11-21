@@ -3,11 +3,6 @@
 [WEB-DEV] ~ $ npm start  
 Starting dev server on http://localhost:3000
 
-```python
-def hello_world():
-    print("Hello, World!")
-
-
 ## SYSTEM STATUS
 OS            : Debain 12 (PC) &&& crDroid (Android)  
 LANGUAGES     : JavaScript, HTML, CSS, Solidity  
@@ -20,7 +15,7 @@ IDE            : Visual Studio Code
 
 [+] REPOS CONTRIBUTED : 30+  
 [+] ACTIVE STREAK     : 🔥 ██████████████████ (100%)  
-[+] TOP LANGUAGES     : JavaScript, CSS, Solidity  
+[+] TOP LANGUAGES     : JavaScript, CSS  
 
 WEBSITE   : your-portfolio-link.com  
 TWITTER   : @yourhandle  
