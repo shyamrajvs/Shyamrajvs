@@ -10,7 +10,7 @@ LANGUAGES     : JavaScript, HTML, CSS, Solidity
 CURRENT TASKS : contributing to open source  
 ###
 FRONTEND       : React.js, Next.js , Tailwind CSS  
-BACKEND        : Node.js (Optional for DApps) 
+BACKEND        : Node.js 
 DESIGN         : Figma
 IDE            : Visual Studio Code  
 
