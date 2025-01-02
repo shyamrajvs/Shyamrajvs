@@ -6,7 +6,7 @@ Starting dev server on http://localhost:3000
 ## SYSTEM STATUS
 ```yml
 OS            : Debain 12 (PC) &&& crDroid (Android 14)  
-LANGUAGES     : JavaScript, HTML, CSS, Solidity  
+LANGUAGES     : JavaScript, HTML, CSS
 CURRENT TASKS : contributing to open source  
 ###
 FRONTEND       : React.js, Next.js , Tailwind CSS  
