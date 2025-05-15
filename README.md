@@ -5,7 +5,7 @@ Starting dev server on http://localhost:3000
 
 ## SYSTEM STATUS
 ```yml
-OS            : Debain 12 (PC) &&& crDroid (Android 14)  
+OS            : Debain 12 (PC) &&& crDroid (Android 15)  
 LANGUAGES     : JavaScript, HTML, CSS
 CURRENT TASKS : contributing to open source  
 ###
