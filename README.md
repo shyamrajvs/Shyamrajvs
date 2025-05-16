@@ -18,7 +18,7 @@ IDE            : Visual Studio Code
 [+] ACTIVE STREAK     : 🔥 ██████████████████ (100%)  
 [+] TOP LANGUAGES     : Python, JavaScript, CSS  , Java , C
 
-WEBSITE   : your-portfolio-link.com  
-TWITTER   : @yourhandle  
-LINKEDIN  : linkedin.com/in/yourname  
-EMAIL     : yourname@example.com  
+WEBSITE   : [your-portfolio-link.com ](https://shyamrajvs.vercel.app/) 
+TWITTER   :   
+LINKEDIN  : https://www.linkedin.com/in/shyamrajvs/  
+EMAIL     : shyamrajvs737@gmail.com  
