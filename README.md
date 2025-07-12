@@ -39,15 +39,3 @@ Python, JavaScript, CSS, Java, C
 
 📧 Email: shyamrajvs737@gmail.com
 
-
----
-
-### Optional: Add Badges
-
-You can improve the visual appeal using [shields.io](https://shields.io). Example:
-
-```markdown
-![OS](https://img.shields.io/badge/OS-Debian_12-orange?logo=debian)
-![Code](https://img.shields.io/badge/Code-JavaScript%2C%20Python%2C%20CSS-yellow?logo=javascript)
-![IDE](https://img.shields.io/badge/IDE-VS%20Code-blue?logo=visualstudiocode)
-![Open Source](https://img.shields.io/badge/Open--Source-Contributor-brightgreen?logo=github)
